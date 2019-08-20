@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding" addBOMForNewFiles="with NO BOM">
+    <file url="file://$PROJECT_DIR$" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/microServiceCloud-api" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/microServiceCloud-config-eureka-7001" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/microServiceCloud-consumer-dept-80" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/microServiceCloud-consumer-dept-feign" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/microServiceCloud-eureka-7001" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/microServiceCloud-eureka-7002" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/microServiceCloud-eureka-7003" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/microServiceCloud-producer-dept-8001" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/microServiceCloud-producer-dept-8004" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/microServiceCloud-producer-dept-8005" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/microServiceCloud-producer-dept-hystrix-8001" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/microServiceCloud-zuul-gateway-9527" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/microservicecloud-config-dept-8001" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/microservicecloud-consumer-hystrix-dashboard" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/springservicecloud-client-3355" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/springservicecloud-config-3344" charset="UTF-8" />
+  </component>
+</project>

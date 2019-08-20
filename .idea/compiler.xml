@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile default="true" name="Default" enabled="true" />
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="microServiceCloud-api" />
+        <module name="microservicecloud-config-dept-8001" />
+        <module name="microServiceCloud-config-eureka-7001" />
+        <module name="microServiceCloud-consumer-dept-feign" />
+        <module name="microservicecloud-consumer-hystrix-dashboard" />
+        <module name="microServiceCloud-eureka-7001" />
+        <module name="microServiceCloud-eureka-7002" />
+        <module name="microServiceCloud-eureka-7003" />
+        <module name="microServiceCloud-producer-dept-8001" />
+        <module name="microServiceCloud-producer-dept-8004" />
+        <module name="microServiceCloud-producer-dept-8005" />
+        <module name="microServiceCloud-producer-dept-hystrix-8001" />
+        <module name="microServiceCloud-zuul-gateway-9527" />
+        <module name="microServiceCloudconsumer-dept-80" />
+        <module name="springservicecloud-client-3355" />
+        <module name="springservicecloud-config-3344" />
+      </profile>
+    </annotationProcessing>
+  </component>
+</project>
